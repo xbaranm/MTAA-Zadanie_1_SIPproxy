@@ -1,0 +1,50 @@
+20:15:29 - Mon, 28 Feb 2022 20:15:29 
+20:15:29 - Server starting at 10.10.16.84
+20:15:31 - Registracia klienta: ntb2@10.10.16.84
+20:15:32 - Registracia klienta: mobil1@10.10.16.84
+20:15:34 - Registracia klienta: mobil2@10.10.16.84
+20:15:37 - Registracia klienta: desktop@10.10.16.84
+20:15:37 - Registracia klienta: ntb1@10.10.16.84
+20:15:46 - [ID: cLirt3tAcx] Ucastnik mobil1@10.10.16.84 vytaca ucastnika mobil2@10.10.16.84
+20:15:48 - [ID: cLirt3tAcx] Ucastnik mobil2@10.10.16.84 prijal hovor
+20:15:49 - [ID: cLirt3tAcx] Ucastnik mobil2@10.10.16.84 prijal hovor
+20:16:07 - [ID: cLirt3tAcx] Ucastnik mobil1@10.10.16.84 ukoncil hovor
+20:16:40 - [ID: kAKg4CVUeJ] Ucastnik mobil1@10.10.16.84 vytaca ucastnika mobil2@10.10.16.84
+20:16:46 - [ID: kAKg4CVUeJ] Ucastnik mobil2@10.10.16.84 prijal hovor
+20:16:47 - [ID: kAKg4CVUeJ] Ucastnik mobil2@10.10.16.84 prijal hovor
+20:17:04 - [ID: kAKg4CVUeJ] Ucastnik mobil2@10.10.16.84 vytaca ucastnika mobil1@10.10.16.84
+20:17:04 - [ID: gt7fBaWKEk] Ucastnik mobil2@10.10.16.84 vytaca ucastnika ntb2@10.10.16.84
+20:17:04 - [ID: kAKg4CVUeJ] Ucastnik mobil1@10.10.16.84 prijal hovor
+20:17:08 - [ID: gt7fBaWKEk] Ucastnik ntb2@10.10.16.84 prijal hovor
+20:17:09 - [ID: gt7fBaWKEk] Ucastnik ntb2@10.10.16.84 prijal hovor
+20:17:20 - [ID: kAKg4CVUeJ] Ucastnik mobil1@10.10.16.84 ukoncil hovor
+20:17:28 - [ID: gt7fBaWKEk] Ucastnik mobil2@10.10.16.84 ukoncil hovor
+20:18:13 - [ID: kdHW~iFU4z] Ucastnik mobil2@10.10.16.84 vytaca ucastnika mobil1@10.10.16.84
+20:18:15 - [ID: kdHW~iFU4z] Ucastnik mobil1@10.10.16.84 prijal hovor
+20:18:16 - [ID: kdHW~iFU4z] Ucastnik mobil1@10.10.16.84 prijal hovor
+20:18:20 - [ID: kdHW~iFU4z] Ucastnik mobil1@10.10.16.84 vytaca ucastnika mobil2@10.10.16.84
+20:18:21 - [ID: kdHW~iFU4z] Ucastnik mobil2@10.10.16.84 prijal hovor
+20:18:32 - [ID: kdHW~iFU4z] Ucastnik mobil1@10.10.16.84 ukoncil hovor
+20:18:38 - [ID: xNAIg8YgE3] Ucastnik mobil1@10.10.16.84 vytaca ucastnika mobil2@10.10.16.84
+20:18:41 - [ID: xNAIg8YgE3] Ucastnik mobil1@10.10.16.84 zrusil vytacanie ucastnika mobil2@10.10.16.84
+20:18:54 - [ID: Sls21gt7Y3] Ucastnik mobil1@10.10.16.84 vytaca ucastnika mobil2@10.10.16.84
+20:18:55 - [ID: Sls21gt7Y3] Ucastnik mobil2@10.10.16.84 zamietol hovor
+20:19:08 - [ID: cX1n3sNjqp] Ucastnik mobil1@10.10.16.84 vytaca ucastnika mobil2@10.10.16.84
+20:19:09 - [ID: cX1n3sNjqp] Ucastnik mobil2@10.10.16.84 prijal hovor
+20:19:10 - [ID: cX1n3sNjqp] Ucastnik mobil2@10.10.16.84 prijal hovor
+20:20:17 - [ID: cX1n3sNjqp] Ucastnik mobil1@10.10.16.84 ukoncil hovor
+20:20:19 - [ID: YuqHghHcnQ] Ucastnik mobil1@10.10.16.84 vytaca ucastnika mobil2@10.10.16.84
+20:20:21 - [ID: YuqHghHcnQ] Ucastnik mobil2@10.10.16.84 prijal hovor
+20:20:21 - [ID: YuqHghHcnQ] Ucastnik mobil2@10.10.16.84 prijal hovor
+20:24:31 - Registracia klienta: ntb2@10.10.16.84
+20:25:15 - [ID: YuqHghHcnQ] Ucastnik mobil2@10.10.16.84 ukoncil hovor
+20:33:00 - Registracia klienta: ntb2@10.10.16.84
+21:09:32 - Registracia klienta: mobil1@10.10.16.84
+21:09:38 - Registracia klienta: desktop@10.10.16.84
+21:09:39 - Registracia klienta: ntb1@10.10.16.84
+21:10:50 - Registracia klienta: mobil2@10.10.16.84
+21:58:50 - Registracia klienta: mobil2@10.10.16.84
+21:59:03 - Registracia klienta: mobil2@10.10.16.84
+22:03:32 - Registracia klienta: mobil1@10.10.16.84
+22:03:38 - Registracia klienta: desktop@10.10.16.84
+22:03:39 - Registracia klienta: ntb1@10.10.16.84
